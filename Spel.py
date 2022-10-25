@@ -18,8 +18,8 @@ class Spelare():
 
 #Starten på den fantastiska resan
 
-namn = input("Hej, Vad vill ud bli kallad? --> ")
+namn = input("Hej, Vad vill du bli kallad? --> ")
 spelare = Spelare(namn)
 
+# hej
 
-#Här gör jag en ändring

@@ -21,3 +21,5 @@ class Spelare():
 namn = input("Hej, Vad vill ud bli kallad? --> ")
 spelare = Spelare(namn)
 
+
+#Här gör jag en ändring
